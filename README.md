@@ -1,5 +1,6 @@
 # Hyperd Scalable Indexer
 
+![plot](./images/Thumbnail-preview.png)
 A scalable vector indexing system designed to balance **high recall**, **time efficiency**, and **memory optimization**.  
 The project explores multiple indexing strategies inspired by **LSH** and **IVFFLAT**, with a focus on rebuildability, parallelization, and disk-based storage.
 
